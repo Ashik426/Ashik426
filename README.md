@@ -1,7 +1,5 @@
 # Hi there, I'm Ashik 👋
 
-### Welcome to my GitHub profile!
-
 I'm a GIS & Data Analyst from Dhaka, Bangladesh, specializing in transforming data into actionable insights and innovative solutions. With a passion for both spatial data analysis and data science, I aim to bridge the gap between traditional GIS techniques and modern data analytics.
 
 ---
@@ -32,16 +30,4 @@ I'm a GIS & Data Analyst from Dhaka, Bangladesh, specializing in transforming da
 
 ---
 
-### Let's Connect!
-
-Feel free to reach out for collaborations or just a chat:
-
-- 📫 **Email:** [uashik111@gmail.com]
-- 🔗 **LinkedIn:** [[[Ashik](https://www.linkedin.com/in/ashik111/)]()]
-<!-- Add your contact information -->
-
-
----
-
-Thank you for visiting my profile. Let's explore and grow together!
 
