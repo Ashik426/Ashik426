@@ -37,12 +37,9 @@ I'm a GIS & Data Analyst from Dhaka, Bangladesh, specializing in transforming da
 Feel free to reach out for collaborations or just a chat:
 
 - 📫 **Email:** [uashik111@gmail.com]
-- 🔗 **LinkedIn:** [[Your LinkedIn Profile Here](https://www.linkedin.com/in/ashik111/)]
+- 🔗 **LinkedIn:** [[[Your LinkedIn Profile Here](https://www.linkedin.com/in/ashik111/)]()]
 <!-- Add your contact information -->
 
-### My GitHub Stats
-
-![Ashik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashik426&show_icons=true&theme=algolia)
 
 ---
 
